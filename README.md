@@ -10,6 +10,7 @@ A collection of my Leetocde Solutions.
 | [0027-remove-element](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/Namish-Jain/Leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 ## Hash Table
 |  |
 | ------- |
