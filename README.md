@@ -34,5 +34,10 @@ A collection of my Leetocde Solutions in C++.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0682-baseball-game) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
