@@ -1,5 +1,5 @@
 # Leetcode
-A collection of my Leetocde Solutions.
+A collection of my Leetocde Solutions in C++.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
