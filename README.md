@@ -43,9 +43,14 @@ A collection of my Leetocde Solutions in C++.
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0838-design-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0838-design-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
