@@ -43,6 +43,7 @@ A collection of my Leetocde Solutions in C++.
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0838-design-linked-list) |
 ## Design
@@ -52,5 +53,6 @@ A collection of my Leetocde Solutions in C++.
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
