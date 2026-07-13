@@ -31,6 +31,7 @@ A collection of my Leetocde Solutions in C++.
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 ## Simulation
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of my Leetocde Solutions in C++.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [1297-maximum-number-of-balloons](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 ## Linked List
 |  |
