@@ -18,6 +18,7 @@ A collection of my Leetocde Solutions in C++.
 | [0283-move-zeroes](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [0917-boats-to-save-people](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1635-number-of-good-pairs](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
@@ -35,6 +36,7 @@ A collection of my Leetocde Solutions in C++.
 | [0015-3sum](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Namish-Jain/Leetcode/tree/master/0217-contains-duplicate) |
+| [0917-boats-to-save-people](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of my Leetocde Solutions in C++.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0917-boats-to-save-people](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 ## Simulation
 |  |
 | ------- |
@@ -100,4 +103,5 @@ A collection of my Leetocde Solutions in C++.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0917-boats-to-save-people](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 <!---LeetCode Topics End-->
