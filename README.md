@@ -7,6 +7,7 @@ A collection of my Leetocde Solutions in C++.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0128-longest-consecutive-sequence](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -27,10 +28,12 @@ A collection of my Leetocde Solutions in C++.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Namish-Jain/Leetcode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
