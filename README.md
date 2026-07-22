@@ -129,6 +129,7 @@ A collection of my Leetocde Solutions in C++.
 | [0572-subtree-of-another-tree](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of my Leetocde Solutions in C++.
 | [0543-diameter-of-binary-tree](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0975-range-sum-of-bst](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of my Leetocde Solutions in C++.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of my Leetocde Solutions in C++.
 | [0572-subtree-of-another-tree](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
 | ------- |
