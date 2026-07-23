@@ -20,6 +20,7 @@ A collection of my Leetocde Solutions in C++.
 | [0485-max-consecutive-ones](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0917-boats-to-save-people](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
+| [1014-k-closest-points-to-origin](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1635-number-of-good-pairs](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
@@ -39,6 +40,7 @@ A collection of my Leetocde Solutions in C++.
 | [0075-sort-colors](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Namish-Jain/Leetcode/tree/master/0217-contains-duplicate) |
 | [0917-boats-to-save-people](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
+| [1014-k-closest-points-to-origin](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of my Leetocde Solutions in C++.
 ## Math
 |  |
 | ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1635-number-of-good-pairs](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -198,9 +201,22 @@ A collection of my Leetocde Solutions in C++.
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
 ## Data Stream
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
