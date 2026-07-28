@@ -18,6 +18,7 @@ A collection of my Leetocde Solutions in C++.
 | [0215-kth-largest-element-in-an-array](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Namish-Jain/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0917-boats-to-save-people](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
@@ -32,6 +33,7 @@ A collection of my Leetocde Solutions in C++.
 | [0001-two-sum](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Namish-Jain/Leetcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1297-maximum-number-of-balloons](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 ## Sorting
@@ -41,6 +43,7 @@ A collection of my Leetocde Solutions in C++.
 | [0075-sort-colors](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Namish-Jain/Leetcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0917-boats-to-save-people](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Two Pointers
@@ -99,6 +102,7 @@ A collection of my Leetocde Solutions in C++.
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1297-maximum-number-of-balloons](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 ## Union-Find
@@ -203,6 +207,7 @@ A collection of my Leetocde Solutions in C++.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
@@ -214,6 +219,7 @@ A collection of my Leetocde Solutions in C++.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -223,5 +229,10 @@ A collection of my Leetocde Solutions in C++.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
