@@ -85,6 +85,7 @@ A collection of my Leetocde Solutions in C++.
 | [0344-reverse-string](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1297-maximum-number-of-balloons](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1297-maximum-number-of-balloons) |
+| [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 ## Linked List
 |  |
 | ------- |
