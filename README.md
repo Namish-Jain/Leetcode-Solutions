@@ -23,6 +23,7 @@ A collection of my Leetocde Solutions in C++.
 | [0347-top-k-frequent-elements](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0917-boats-to-save-people](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
@@ -129,6 +130,7 @@ A collection of my Leetocde Solutions in C++.
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 ## Binary Search
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of my Leetocde Solutions in C++.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0975-range-sum-of-bst](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -191,6 +194,7 @@ A collection of my Leetocde Solutions in C++.
 | [0199-binary-tree-right-side-view](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -271,4 +275,5 @@ A collection of my Leetocde Solutions in C++.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
