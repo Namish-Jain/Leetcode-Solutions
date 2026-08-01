@@ -26,6 +26,7 @@ A collection of my Leetocde Solutions in C++.
 | [0695-max-area-of-island](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0917-boats-to-save-people](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1635-number-of-good-pairs](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
@@ -195,6 +196,7 @@ A collection of my Leetocde Solutions in C++.
 | [0200-number-of-islands](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -276,4 +278,5 @@ A collection of my Leetocde Solutions in C++.
 | ------- |
 | [0200-number-of-islands](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
