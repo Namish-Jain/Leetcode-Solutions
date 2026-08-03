@@ -25,6 +25,7 @@ A collection of my Leetocde Solutions in C++.
 | [0485-max-consecutive-ones](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0917-boats-to-save-people](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
@@ -137,10 +138,12 @@ A collection of my Leetocde Solutions in C++.
 | [0130-surrounded-regions](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0794-swim-in-rising-water](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 ## Greedy
 |  |
 | ------- |
@@ -192,6 +195,7 @@ A collection of my Leetocde Solutions in C++.
 | [0543-diameter-of-binary-tree](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0975-range-sum-of-bst](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -208,6 +212,7 @@ A collection of my Leetocde Solutions in C++.
 | [0207-course-schedule](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -253,6 +258,7 @@ A collection of my Leetocde Solutions in C++.
 | [0347-top-k-frequent-elements](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1014-k-closest-points-to-origin](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
 ## Data Stream
@@ -291,6 +297,7 @@ A collection of my Leetocde Solutions in C++.
 | [0130-surrounded-regions](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 ## Graph Theory
 |  |
