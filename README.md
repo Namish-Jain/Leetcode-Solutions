@@ -195,6 +195,7 @@ A collection of my Leetocde Solutions in C++.
 | [0543-diameter-of-binary-tree](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0975-range-sum-of-bst](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -212,6 +213,7 @@ A collection of my Leetocde Solutions in C++.
 | [0207-course-schedule](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -257,6 +259,7 @@ A collection of my Leetocde Solutions in C++.
 | [0295-find-median-from-data-stream](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0744-network-delay-time](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1014-k-closest-points-to-origin](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
@@ -304,8 +307,17 @@ A collection of my Leetocde Solutions in C++.
 | ------- |
 | [0133-clone-graph](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0207-course-schedule) |
+| [0744-network-delay-time](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0744-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
