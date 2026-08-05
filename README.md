@@ -32,6 +32,7 @@ A collection of my Leetocde Solutions in C++
 | [1127-last-stone-weight](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1635-number-of-good-pairs](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2058-concatenation-of-array](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -139,6 +140,7 @@ A collection of my Leetocde Solutions in C++
 | [0200-number-of-islands](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Binary Search
 |  |
 | ------- |
@@ -313,6 +315,7 @@ A collection of my Leetocde Solutions in C++
 | [0207-course-schedule](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0744-network-delay-time](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -326,4 +329,20 @@ A collection of my Leetocde Solutions in C++
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0744-network-delay-time) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
