@@ -16,6 +16,7 @@ A collection of my Leetocde Solutions in C++
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -363,4 +364,8 @@ A collection of my Leetocde Solutions in C++
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
