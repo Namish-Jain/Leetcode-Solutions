@@ -161,6 +161,7 @@ A collection of my Leetocde Solutions in C++
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Monotonic Stack
 |  |
@@ -370,4 +371,5 @@ A collection of my Leetocde Solutions in C++
 | ------- |
 | [0136-single-number](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
