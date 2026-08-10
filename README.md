@@ -12,6 +12,7 @@ A collection of my Leetocde Solutions in C++
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -43,6 +44,7 @@ A collection of my Leetocde Solutions in C++
 | [0001-two-sum](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0133-clone-graph) |
@@ -56,6 +58,7 @@ A collection of my Leetocde Solutions in C++
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Namish-Jain/Leetcode/tree/master/0217-contains-duplicate) |
@@ -100,6 +103,7 @@ A collection of my Leetocde Solutions in C++
 | [0003-longest-substring-without-repeating-characters](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0332-reconstruct-itinerary](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
