@@ -135,6 +135,7 @@ A collection of my Leetocde Solutions in C++
 | ------- |
 | [0012-integer-to-roman](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [1014-k-closest-points-to-origin](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1635-number-of-good-pairs](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 ## Counting
@@ -384,4 +385,5 @@ A collection of my Leetocde Solutions in C++
 | [0191-number-of-1-bits](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
