@@ -56,6 +56,7 @@ A collection of my Leetocde Solutions in C++
 | [0242-valid-anagram](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1297-maximum-number-of-balloons](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
@@ -115,6 +116,7 @@ A collection of my Leetocde Solutions in C++
 | [0242-valid-anagram](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0332-reconstruct-itinerary](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0344-reverse-string](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1297-maximum-number-of-balloons](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1297-maximum-number-of-balloons) |
@@ -328,6 +330,7 @@ A collection of my Leetocde Solutions in C++
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Matrix
 |  |
 | ------- |
