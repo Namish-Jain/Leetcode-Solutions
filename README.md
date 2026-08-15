@@ -58,6 +58,7 @@ A collection of my Leetocde Solutions in C++
 | [0347-top-k-frequent-elements](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 ## Sorting
@@ -90,6 +91,7 @@ A collection of my Leetocde Solutions in C++
 | [0283-move-zeroes](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 ## Simulation
@@ -118,6 +120,7 @@ A collection of my Leetocde Solutions in C++
 | [0344-reverse-string](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1297-maximum-number-of-balloons](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
@@ -331,6 +334,7 @@ A collection of my Leetocde Solutions in C++
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 ## Matrix
 |  |
 | ------- |
