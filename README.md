@@ -62,6 +62,7 @@ A collection of my Leetocde Solutions in C++
 | [0424-longest-repeating-character-replacement](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [1023-time-based-key-value-store](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1297-maximum-number-of-balloons](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 ## Sorting
@@ -126,6 +127,7 @@ A collection of my Leetocde Solutions in C++
 | [0451-sort-characters-by-frequency](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [1023-time-based-key-value-store](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1297-maximum-number-of-balloons](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 ## Linked List
@@ -143,6 +145,7 @@ A collection of my Leetocde Solutions in C++
 | [0295-find-median-from-data-stream](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0838-design-linked-list) |
+| [1023-time-based-key-value-store](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 ## Recursion
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of my Leetocde Solutions in C++
 | [0268-missing-number](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0794-swim-in-rising-water](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 ## Greedy
 |  |
 | ------- |
