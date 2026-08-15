@@ -24,6 +24,7 @@ A collection of my Leetocde Solutions in C++
 | [0215-kth-largest-element-in-an-array](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Namish-Jain/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0332-reconstruct-itinerary](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
@@ -293,6 +294,7 @@ A collection of my Leetocde Solutions in C++
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -336,6 +338,7 @@ A collection of my Leetocde Solutions in C++
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 ## Matrix
@@ -414,4 +417,16 @@ A collection of my Leetocde Solutions in C++
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
