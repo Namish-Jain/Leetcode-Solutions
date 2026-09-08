@@ -15,6 +15,7 @@ A collection of my Leetocde Solutions in C++
 | [0036-valid-sudoku](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0057-insert-interval](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
