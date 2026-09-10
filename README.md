@@ -106,6 +106,7 @@ A collection of my Leetocde Solutions in C++
 | [0295-find-median-from-data-stream](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 ## Simulation
@@ -137,6 +138,7 @@ A collection of my Leetocde Solutions in C++
 | [0424-longest-repeating-character-replacement](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1023-time-based-key-value-store](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1297-maximum-number-of-balloons](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1297-maximum-number-of-balloons) |
@@ -215,6 +217,7 @@ A collection of my Leetocde Solutions in C++
 | [0213-house-robber-ii](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0647-palindromic-substrings](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Monotonic Stack
 |  |
