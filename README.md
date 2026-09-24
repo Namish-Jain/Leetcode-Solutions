@@ -53,6 +53,7 @@ A collection of my Leetocde Solutions in C++
 | [1635-number-of-good-pairs](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2058-concatenation-of-array](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of my Leetocde Solutions in C++
 | [0371-sum-of-two-integers](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [1014-k-closest-points-to-origin](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1635-number-of-good-pairs](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Counting
 |  |
 | ------- |
