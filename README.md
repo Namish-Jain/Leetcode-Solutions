@@ -146,6 +146,7 @@ A collection of my Leetocde Solutions in C++
 | [0647-palindromic-substrings](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1023-time-based-key-value-store](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
+| [1250-longest-common-subsequence](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 ## Linked List
@@ -229,6 +230,7 @@ A collection of my Leetocde Solutions in C++
 | [0518-coin-change-ii](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1250-longest-common-subsequence](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -508,4 +510,8 @@ A collection of my Leetocde Solutions in C++
 | ------- |
 | [0322-coin-change](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
