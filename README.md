@@ -40,6 +40,7 @@ A collection of my Leetocde Solutions in C++
 | [0435-non-overlapping-intervals](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0682-baseball-game](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
@@ -223,6 +224,7 @@ A collection of my Leetocde Solutions in C++
 | [0416-partition-equal-subset-sum](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Monotonic Stack
@@ -489,6 +491,7 @@ A collection of my Leetocde Solutions in C++
 | [0322-coin-change](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -502,4 +505,5 @@ A collection of my Leetocde Solutions in C++
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
