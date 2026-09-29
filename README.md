@@ -17,6 +17,7 @@ A collection of my Leetocde Solutions in C++
 | [0049-group-anagrams](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -63,6 +64,7 @@ A collection of my Leetocde Solutions in C++
 | [0012-integer-to-roman](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -394,6 +396,7 @@ A collection of my Leetocde Solutions in C++
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
