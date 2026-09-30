@@ -125,6 +125,7 @@ A collection of my Leetocde Solutions in C++
 | [0567-permutation-in-string](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0908-middle-of-the-linked-list](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 ## Simulation
 |  |
@@ -168,6 +169,7 @@ A collection of my Leetocde Solutions in C++
 | [0146-lru-cache](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0838-design-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
