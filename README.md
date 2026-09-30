@@ -25,6 +25,7 @@ A collection of my Leetocde Solutions in C++
 | [0130-surrounded-regions](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
@@ -72,6 +73,7 @@ A collection of my Leetocde Solutions in C++
 | [0128-longest-consecutive-sequence](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Namish-Jain/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -89,6 +91,7 @@ A collection of my Leetocde Solutions in C++
 | [0049-group-anagrams](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Namish-Jain/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -189,6 +192,7 @@ A collection of my Leetocde Solutions in C++
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1297-maximum-number-of-balloons](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1297-maximum-number-of-balloons) |
@@ -369,6 +373,7 @@ A collection of my Leetocde Solutions in C++
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -538,4 +543,8 @@ A collection of my Leetocde Solutions in C++
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
