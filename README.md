@@ -73,6 +73,7 @@ A collection of my Leetocde Solutions in C++
 | [0127-word-ladder](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0146-lru-cache) |
@@ -179,6 +180,7 @@ A collection of my Leetocde Solutions in C++
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0146-lru-cache) |
