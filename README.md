@@ -171,6 +171,7 @@ A collection of my Leetocde Solutions in C++
 | [0021-merge-two-sorted-lists](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0146-lru-cache](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0838-design-linked-list](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Design
