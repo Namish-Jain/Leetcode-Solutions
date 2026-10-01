@@ -123,6 +123,7 @@ A collection of my Leetocde Solutions in C++
 | [0141-linked-list-cycle](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
@@ -143,6 +144,7 @@ A collection of my Leetocde Solutions in C++
 | [0020-valid-parentheses](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0682-baseball-game) |
 ## String
 |  |
@@ -177,6 +179,7 @@ A collection of my Leetocde Solutions in C++
 | [0146-lru-cache](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0838-design-linked-list](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
@@ -195,6 +198,7 @@ A collection of my Leetocde Solutions in C++
 | [0002-add-two-numbers](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
