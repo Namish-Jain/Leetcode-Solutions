@@ -554,6 +554,7 @@ A collection of my Leetocde Solutions in C++
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0494-target-sum) |
