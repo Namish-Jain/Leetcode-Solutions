@@ -15,6 +15,7 @@ A collection of my Leetocde Solutions in C++
 | [0036-valid-sudoku](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0057-insert-interval) |
@@ -556,6 +557,7 @@ A collection of my Leetocde Solutions in C++
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0090-subsets-ii) |
