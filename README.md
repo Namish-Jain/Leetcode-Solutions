@@ -243,6 +243,7 @@ A collection of my Leetocde Solutions in C++
 | [0200-number-of-islands](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Binary Search
@@ -334,6 +335,7 @@ A collection of my Leetocde Solutions in C++
 | [0684-redundant-connection](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0744-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0975-range-sum-of-bst](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
@@ -356,6 +358,7 @@ A collection of my Leetocde Solutions in C++
 | [0684-redundant-connection](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0744-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1036-rotting-oranges](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
@@ -470,6 +473,7 @@ A collection of my Leetocde Solutions in C++
 | [0332-reconstruct-itinerary](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0744-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Topological Sort
@@ -607,4 +611,12 @@ A collection of my Leetocde Solutions in C++
 | ------- |
 | [0169-majority-element](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Namish-Jain/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
