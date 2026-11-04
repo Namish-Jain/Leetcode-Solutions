@@ -11,38 +11,32 @@
  */
 class Solution {
 private:
-    TreeNode* inOrderPred(TreeNode* curr) {
-        TreeNode* pred = curr -> left;
-        while (pred -> right != nullptr && pred -> right != curr) 
-            pred = pred -> right;
-        return pred;
+    void dfs(TreeNode* node, int& count, int& ans) {
+        if (!node) return;
+
+        dfs(node->left, count, ans);
+
+        if (count == 0) return;
+
+        count--;
+        if (count == 0) {
+            ans = node->val;
+            return;
+        }
+
+        dfs(node->right, count, ans);
+
     }
+       
 
 public:
     int kthSmallest(TreeNode* root, int k) {
-        TreeNode* curr = root;
-        int ans = 0;
 
-        while (curr != nullptr) {
-            if (curr -> left == nullptr) {
-                k--;
-                if (k == 0) ans = curr -> val;
-                curr = curr -> right;
-            }
-            else {
-                TreeNode* pred = inOrderPred(curr);
-                if (pred -> right == nullptr) {
-                    pred -> right = curr;
-                    curr = curr -> left;
-                }
-                else {
-                    pred -> right = nullptr;
-                    k--;
-                    if (k == 0) ans = curr -> val;
-                    curr = curr -> right;
-                }
-            }
-        }
+        int count = k;
+        int ans{};
+
+        dfs(root, count, ans);
+
         return ans;
     }        
 };
