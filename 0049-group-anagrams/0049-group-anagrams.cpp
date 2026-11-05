@@ -8,7 +8,7 @@ public:
             sort(word.begin(), word.end());
             map[word].push_back(temp);
         }
-        for (auto anagram : map) ans.push_back(anagram.second);
+        for (auto& [key,value] : map) ans.push_back(value);
         return ans;
     }
 };
